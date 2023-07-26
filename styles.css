@@ -70,3 +70,16 @@ ul {
     flex: none;
     margin: 10px 0;
 }
+
+/* Quote Section Styles */
+.quote-section {
+    display: flex;
+    padding: 50px 0;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.author {
+    align-self: self-end;
+}
