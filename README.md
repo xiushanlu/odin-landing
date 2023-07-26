@@ -9,4 +9,5 @@ Skills Demonstrated:
 - HTML
 - CSS
 - Flexbox
+- Git
 - Manipulating shapes, colors, and fonts
