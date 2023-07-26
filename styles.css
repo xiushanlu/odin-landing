@@ -83,3 +83,20 @@ ul {
 .author {
     align-self: self-end;
 }
+
+/* Call-to-Action Styles */
+.cta-section {
+    display: flex;
+    padding: 50px 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta {
+    display: flex;
+    background-color: blue;
+    color: white;
+    padding: 30px 50px;
+    justify-content: space-between;
+    gap: 50px
+}
