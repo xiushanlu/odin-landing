@@ -11,3 +11,6 @@ Skills Demonstrated:
 - Flexbox
 - Git
 - Manipulating shapes, colors, and fonts
+
+Credits:
+The font used is Roboto by Christian Robertson, which can be found here: https://fonts.google.com/specimen/Roboto
