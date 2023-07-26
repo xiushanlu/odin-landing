@@ -5,3 +5,10 @@
     list-style-type: none;
     text-decoration: none;
 }
+
+/* Body Styles */
+body {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 16%;
+}
