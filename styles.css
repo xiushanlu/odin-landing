@@ -100,3 +100,10 @@ ul {
     justify-content: space-between;
     gap: 50px
 }
+
+/* Footer Styles */
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
