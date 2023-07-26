@@ -12,3 +12,15 @@ body {
     flex-direction: column;
     padding: 10px 16%;
 }
+
+/* Header Styles */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+ul {
+    display: flex;
+    gap: 18px;
+}
